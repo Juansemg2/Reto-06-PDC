@@ -2,7 +2,7 @@ Reto 6 PDC
 
 Juan Sebastian Martinez Garcia
 
-En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el archivo adjunto se encontraran los codigos de solucion a los siguientes problemas algoritmicos:
+En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el archivo adjunto nombrado RETO06.py se encontraran los codigos de solucion a los siguientes problemas algoritmicos:
 
 1.Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
@@ -15,3 +15,6 @@ En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el
 5.Implementar un programa que ingrese un número de 2 a 50 y muestre sus divisores.
 
 6.Implementar el algoritmo que muestre los números primos del 1 al 100. Nota: use funciones
+
+
+Todo el codigo del archivo esta comentado, para hacer efectivo el codigo se requiere borrar el # en las lineas intermedia de instrucciones de cada problema algoritmico.
