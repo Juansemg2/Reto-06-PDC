@@ -6,6 +6,12 @@ En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el
 
 1.Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
+n = 1
+while ( n>0 and n<101 ):
+  print(n**2)
+  n=n+1
+print("Fin")
+
 2.Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 
 3.Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
