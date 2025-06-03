@@ -14,6 +14,8 @@ En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el
        n=n+1
      print("Fin")
 
+![image](https://github.com/user-attachments/assets/fcb34024-d29c-4ba3-83f7-ff79f44ecd93)
+
 
 2.Imprimir un listado con los números impares desde 1 hasta 999 y seguidamente otro listado con los números pares desde 2 hasta 1000.
 
@@ -24,6 +26,9 @@ En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el
         print(num)
         num=num+2
 
+![image](https://github.com/user-attachments/assets/0038f27f-e1b3-4f2c-a6a1-fff985e6577f)
+
+
 3.Imprimir los números pares en forma descendente hasta 2 que son menores o iguales a un número natural n ≥ 2 dado
 
     print("Lista de pares de 2 a 1000")
@@ -31,6 +36,9 @@ En el siguiente reto el cual su solucion esta adjunta en formato de codigo en el
     while(num>0 and num<1001 and num%2==0):
         print(num)
         num=num+2
+
+![image](https://github.com/user-attachments/assets/4fb2f54e-d59b-484b-b88f-adae8d35b701)
+
 
 4.Imprimir el factorial de un número natural n dado.
 
